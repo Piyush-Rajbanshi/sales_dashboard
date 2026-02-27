@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 
-st.title("📊 Sales Dashboard")
+st.title("Sales Dashboard")
 
 df = pd.read_csv("data/sales_data.csv")
 df["date"] = pd.to_datetime(df["date"])
