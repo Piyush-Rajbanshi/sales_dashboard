@@ -44,13 +44,13 @@ This project analyzes sales data, generates business insights, visualizes trends
 ## Project Structure
 
 sales_dashboard/
-│
-├── data/sales_data.csv
-├── analysis.py
-├── visualize.py
-├── dashboard.py
-├── requirements.txt
-└── README.md
+
+── data/sales_data.csv
+── analysis.py
+── visualize.py
+── dashboard.py
+── requirements.txt
+── README.md
 
 ## How to Run
 
@@ -64,15 +64,15 @@ sales_dashboard/
 
 - Run CLI analysis:
 
-- python analysis.py
+ python analysis.py
 
 - Generate visual reports:
 
-- python visualize.py
+ python visualize.py
 
 - Launch dashboard: 
 
-- streamlit run dashboard.py
+ streamlit run dashboard.py
 
 ## Future Improvements
 
