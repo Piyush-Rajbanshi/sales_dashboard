@@ -1,0 +1,10 @@
+date,product,region,quantity,price
+2025-01-01,Laptop,East,2,800
+2025-01-05,Phone,West,5,500
+2025-01-10,Tablet,East,3,300
+2025-02-01,Laptop,North,1,800
+2025-02-05,Phone,East,4,500
+2025-02-15,Tablet,West,6,300
+2025-03-01,Laptop,West,3,800
+2025-03-10,Phone,North,2,500
+2025-03-15,Tablet,East,5,300
